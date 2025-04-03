@@ -37,7 +37,7 @@
 2. **脚本命名空间**：`http://tampermonkey.net/`
 3. **脚本作者**：Chuwu@https://github.com/HatsuChuwu
 4. **许可证**：MIT 许可证
-5. **下载链接**：https://update.greasyfork.org/scripts/531453/%E7%A6%81%E7%94%A8%E9%BC%A0%E6%A0%87%E7%A6%BB%E5%BC%80%E7%BD%91%E9%A1%B5%E9%BC%A0%E6%A0%87%E5%A4%B1%E7%84%A6%E7%9B%91%E5%90%AC.user.js
+5. **下载链接**：https://greasyfork.org/zh-CN/scripts/531453-%E7%A6%81%E7%94%A8%E9%BC%A0%E6%A0%87%E7%A6%BB%E5%BC%80%E7%BD%91%E9%A1%B5-%E9%BC%A0%E6%A0%87%E5%A4%B1%E7%84%A6%E7%9B%91%E5%90%AC
 6. **更新链接**：https://update.greasyfork.org/scripts/531453/%E7%A6%81%E7%94%A8%E9%BC%A0%E6%A0%87%E7%A6%BB%E5%BC%80%E7%BD%91%E9%A1%B5%E9%BC%A0%E6%A0%87%E5%A4%B1%E7%84%A6%E7%9B%91%E5%90%AC.meta.js
 
 ## 注意事项
