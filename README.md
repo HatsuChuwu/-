@@ -17,8 +17,6 @@
 - `https://mooc2-ans.chaoxing.com/*`
 - `https://zjy2.icve.com.cn/*`
 - `https://mooc1.chaoxing.com/*`
-- `https://e.huawei.com/*`
-- `https://talent.shixizhi.huawei.com/*`
 - `*://*.chaoxing.com/*`
 - `*://*.edu.cn/*`
 - `*://*.icve.com.cn/*`
